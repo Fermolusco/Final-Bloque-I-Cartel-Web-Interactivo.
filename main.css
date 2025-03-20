@@ -1,0 +1,147 @@
+body {  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    height: 100vh;  
+    margin: 0;  
+    background-color: #06741a;  
+    color: yellow;  
+    font-family: 'Roboto', sans-serif;  
+    position: relative;  
+}  
+
+canvas {  
+    position: absolute;  
+    top: 0;  
+    left: 0;  
+}  
+
+.text-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none; 
+    z-index: 1; 
+}
+
+.text {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+}
+
+.london {
+    font-size: 60px;
+    top: 720px;
+    left: 530px;
+}
+
+.art {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 60px;
+    top: 650px;
+    left: 250px;
+}
+.gallery{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 60px;
+    top: 650px;
+    left: 340px;
+}
+.City{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 60px;
+    top: 650px;
+    left: 510px;
+}
+.center{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 60px;
+    top: 650px;
+    left: 620px;
+}
+.journey {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130px;
+    top: 160px;
+    left: 120px;
+}
+
+.int-the {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130px;
+    top: 270px;
+    left: 120px;
+}
+
+.orld-of {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130px;
+    top: 380px;
+    left: 205px;
+}
+.of{
+    font-family: 'Roboto', sans-serif;
+    font-size: 130px;
+    top: 380px;
+    left: 600px;
+}
+
+.colors {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130px;
+    top: 500px;
+    left: 120px;
+}
+
+.date {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130px;
+    top: 880px;
+    left: 120px;
+}
+.the{
+    font-family: 'Roboto', sans-serif;
+    font-size: 130px;
+    top: 270px;
+    left: 420px;
+}
+.date-number {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 130px;
+    top: 870px;
+    left: 300px;
+}
+
+.j {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 130px;
+    top: 150px;
+    left: 80px;
+}
+
+.o {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 130px;
+    top: 270px;
+    left: 300px;
+}
+.lors{
+    font-family: 'Roboto', serif;
+    font-size: 130px;
+    top: 490px;
+    left: 300px;
+}
+.w {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 130px;
+    top: 380px;
+    left: 95px;
+}
+
+.o2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 130px;
+    top: 490px;
+    left: 200px;
+}
